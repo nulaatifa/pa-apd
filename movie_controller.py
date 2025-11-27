@@ -240,4 +240,4 @@ def top_rated_movies():
             m.get("tahun", "-"),
             round(avg, 2)
         ])
-    print (table)
+    print(table)
